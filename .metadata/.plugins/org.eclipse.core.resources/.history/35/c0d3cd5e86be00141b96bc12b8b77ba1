@@ -1,0 +1,28 @@
+package Reflections;
+
+public class Timers {
+
+	public static void main(String[] args) {
+		
+		int times = 1000; 
+		Book b = new Book("Hobbit", "Tolkien", 1900, 500);
+		
+		Timers for_tests = new Timers();
+		for_tests.NormalTestRead(b, times);
+//		for_tests.NormalTestWrite(b, times);
+		
+	}
+	
+	
+		
+	public void NormalTestRead(Book b, int T){
+		   long startTime = System.nanoTime();
+		   for (int i = 0; i<=T; i++)
+		   {
+			   String temp = b.author;
+		   }
+		   long estimatedTime = System.nanoTime() - startTime;
+		   System.out.println("1000 wywołań normalnych oczytu dało czas: "+estimatedTime + "ms ("+estimatedTime/1000+" sec), czyli średnio "+(estimatedTime/1000)/T+" na wywołanie");
+	}
+
+}

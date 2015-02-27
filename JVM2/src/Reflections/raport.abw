@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:svg="http://www.w3.org/2000/svg" xid-max="387" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.1" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.9.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:pl-PL; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Fri Feb 27 15:26:49 2015
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Krzysztof Ochędzan</m>
+<m key="dc.date">Fri Feb 27 15:26:44 2015
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="2" edit-time="511" last-saved="1425047209" uid="7a2c12e4-be8b-11e4-8874-a67c22504231">
+<version id="2" started="1425047204" uid="aaa8955e-be8c-11e4-8874-a67c22504231" auto="0" top-xid="387"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="8.267717" height="11.692913" units="in" page-scale="1.000000"/>
+<section xid="386" props="page-margin-footer:0.5000in; page-margin-header:0.5000in; page-margin-right:1.0000in; page-margin-left:1.0000in; page-margin-top:1.0000in; page-margin-bottom:1.0000in">
+<p style="Normal" xid="387"><c>8 uruchomień programu. Za każdym razem 10.000 wywołań funkcji. Wyniki zestawione w tabeli. Jednostką czasu są nanosekundy (ns).</c></p>
+<table xid="2" props="table-row-heights:1.00cm/0.50cm/0.50cm/0.62cm/0.50cm/0.62cm/0.50cm/0.50cm/0.25cm/; table-column-props:3.12cm/1.87cm/1.87cm/1.87cm/1.87cm/2.37cm/3.37cm/">
+<cell xid="3" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="4" props="text-align:center">Numer Pomiaru</p>
+</cell>
+<cell xid="6" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="7" props="text-align:center">Odczyt normalny</p>
+</cell>
+<cell xid="9" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p style="Normal" xid="10" props="text-align:center">Zapis normalny</p>
+</cell>
+<cell xid="12" props="bot-attach:1; left-attach:3; right-attach:4; top-attach:0">
+<p style="Normal" xid="13" props="text-align:center">Odczyt refleksją</p>
+</cell>
+<cell xid="15" props="bot-attach:1; left-attach:4; right-attach:5; top-attach:0">
+<p style="Normal" xid="16" props="text-align:center">Zapis refleksją</p>
+</cell>
+<cell xid="18" props="bot-attach:1; left-attach:5; right-attach:6; top-attach:0">
+<p style="Normal" xid="19" props="text-align:center">Wywołanie metody</p>
+</cell>
+<cell xid="21" props="bot-attach:1; left-attach:6; right-attach:7; top-attach:0">
+<p style="Normal" xid="22" props="text-align:center">Wywołanie metody refleksją</p>
+</cell>
+<cell xid="24" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="25" props="text-align:center">1</p>
+</cell>
+<cell xid="27" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="28" props="text-align:center">21</p>
+</cell>
+<cell xid="30" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p style="Normal" xid="31" props="text-align:center">24</p>
+</cell>
+<cell xid="33" props="bot-attach:2; left-attach:3; right-attach:4; top-attach:1">
+<p style="Normal" xid="34" props="text-align:center">441</p>
+</cell>
+<cell xid="36" props="bot-attach:2; left-attach:4; right-attach:5; top-attach:1">
+<p style="Normal" xid="37" props="text-align:center">431</p>
+</cell>
+<cell xid="39" props="bot-attach:2; left-attach:5; right-attach:6; top-attach:1">
+<p style="Normal" xid="40" props="text-align:center">55</p>
+</cell>
+<cell xid="42" props="bot-attach:2; left-attach:6; right-attach:7; top-attach:1">
+<p style="Normal" xid="43" props="text-align:center">961</p>
+</cell>
+<cell xid="45" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="46" props="text-align:center">2</p>
+</cell>
+<cell xid="48" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="49" props="text-align:center">27</p>
+</cell>
+<cell xid="51" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p style="Normal" xid="52" props="text-align:center">24</p>
+</cell>
+<cell xid="54" props="bot-attach:3; left-attach:3; right-attach:4; top-attach:2">
+<p style="Normal" xid="55" props="text-align:center">483</p>
+</cell>
+<cell xid="57" props="bot-attach:3; left-attach:4; right-attach:5; top-attach:2">
+<p style="Normal" xid="58" props="text-align:center">661</p>
+</cell>
+<cell xid="60" props="bot-attach:3; left-attach:5; right-attach:6; top-attach:2">
+<p style="Normal" xid="61" props="text-align:center">126</p>
+</cell>
+<cell xid="63" props="bot-attach:3; left-attach:6; right-attach:7; top-attach:2">
+<p style="Normal" xid="64" props="text-align:center">1205</p>
+</cell>
+<cell xid="66" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="67" props="text-align:center">3</p>
+</cell>
+<cell xid="69" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="70" props="text-align:center">24</p>
+</cell>
+<cell xid="72" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p style="Normal" xid="73" props="text-align:center">24</p>
+</cell>
+<cell xid="75" props="bot-attach:4; left-attach:3; right-attach:4; top-attach:3">
+<p style="Normal" xid="76" props="text-align:center">479</p>
+</cell>
+<cell xid="78" props="bot-attach:4; left-attach:4; right-attach:5; top-attach:3">
+<p style="Normal" xid="79" props="text-align:center">760</p>
+</cell>
+<cell xid="81" props="bot-attach:4; left-attach:5; right-attach:6; top-attach:3">
+<p style="Normal" xid="82" props="text-align:center">125</p>
+</cell>
+<cell xid="84" props="bot-attach:4; left-attach:6; right-attach:7; top-attach:3">
+<p style="Normal" xid="85" props="text-align:center">1454</p>
+</cell>
+<cell xid="87" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="88" props="text-align:center">4</p>
+</cell>
+<cell xid="90" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p style="Normal" xid="91" props="text-align:center">16</p>
+</cell>
+<cell xid="93" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
+<p style="Normal" xid="94" props="text-align:center">19</p>
+</cell>
+<cell xid="96" props="bot-attach:5; left-attach:3; right-attach:4; top-attach:4">
+<p style="Normal" xid="97" props="text-align:center">646</p>
+</cell>
+<cell xid="99" props="bot-attach:5; left-attach:4; right-attach:5; top-attach:4">
+<p style="Normal" xid="100" props="text-align:center">985</p>
+</cell>
+<cell xid="102" props="bot-attach:5; left-attach:5; right-attach:6; top-attach:4">
+<p style="Normal" xid="103" props="text-align:center">69</p>
+</cell>
+<cell xid="105" props="bot-attach:5; left-attach:6; right-attach:7; top-attach:4">
+<p style="Normal" xid="106" props="text-align:center">1030</p>
+</cell>
+<cell xid="108" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
+<p style="Normal" xid="109" props="text-align:center">5</p>
+</cell>
+<cell xid="111" props="bot-attach:6; left-attach:1; right-attach:2; top-attach:5">
+<p style="Normal" xid="112" props="text-align:center">17</p>
+</cell>
+<cell xid="114" props="bot-attach:6; left-attach:2; right-attach:3; top-attach:5">
+<p style="Normal" xid="115" props="text-align:center">19</p>
+</cell>
+<cell xid="117" props="bot-attach:6; left-attach:3; right-attach:4; top-attach:5">
+<p style="Normal" xid="118" props="text-align:center">769</p>
+</cell>
+<cell xid="120" props="bot-attach:6; left-attach:4; right-attach:5; top-attach:5">
+<p style="Normal" xid="121" props="text-align:center">475</p>
+</cell>
+<cell xid="123" props="bot-attach:6; left-attach:5; right-attach:6; top-attach:5">
+<p style="Normal" xid="124" props="text-align:center">162</p>
+</cell>
+<cell xid="126" props="bot-attach:6; left-attach:6; right-attach:7; top-attach:5">
+<p style="Normal" xid="127" props="text-align:center">1242</p>
+</cell>
+<cell xid="129" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
+<p style="Normal" xid="130" props="text-align:center">6</p>
+</cell>
+<cell xid="132" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
+<p style="Normal" xid="133" props="text-align:center">17</p>
+</cell>
+<cell xid="135" props="bot-attach:7; left-attach:2; right-attach:3; top-attach:6">
+<p style="Normal" xid="136" props="text-align:center">19</p>
+</cell>
+<cell xid="138" props="bot-attach:7; left-attach:3; right-attach:4; top-attach:6">
+<p style="Normal" xid="139" props="text-align:center">612</p>
+</cell>
+<cell xid="141" props="bot-attach:7; left-attach:4; right-attach:5; top-attach:6">
+<p style="Normal" xid="142" props="text-align:center">438</p>
+</cell>
+<cell xid="144" props="bot-attach:7; left-attach:5; right-attach:6; top-attach:6">
+<p style="Normal" xid="145" props="text-align:center">124</p>
+</cell>
+<cell xid="147" props="bot-attach:7; left-attach:6; right-attach:7; top-attach:6">
+<p style="Normal" xid="148" props="text-align:center">1071</p>
+</cell>
+<cell xid="150" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
+<p style="Normal" xid="151" props="text-align:center">7</p>
+</cell>
+<cell xid="153" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
+<p style="Normal" xid="154" props="text-align:center">16</p>
+</cell>
+<cell xid="156" props="bot-attach:8; left-attach:2; right-attach:3; top-attach:7">
+<p style="Normal" xid="157" props="text-align:center">44</p>
+</cell>
+<cell xid="159" props="bot-attach:8; left-attach:3; right-attach:4; top-attach:7">
+<p style="Normal" xid="160" props="text-align:center">543</p>
+</cell>
+<cell xid="162" props="bot-attach:8; left-attach:4; right-attach:5; top-attach:7">
+<p style="Normal" xid="163" props="text-align:center">534</p>
+</cell>
+<cell xid="165" props="bot-attach:8; left-attach:5; right-attach:6; top-attach:7">
+<p style="Normal" xid="166" props="text-align:center">132</p>
+</cell>
+<cell xid="168" props="bot-attach:8; left-attach:6; right-attach:7; top-attach:7">
+<p style="Normal" xid="169" props="text-align:center">1743</p>
+</cell>
+<cell xid="171" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
+<p style="Normal" xid="172" props="text-align:center">8</p>
+</cell>
+<cell xid="174" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
+<p style="Normal" xid="175" props="text-align:center">22</p>
+</cell>
+<cell xid="177" props="bot-attach:9; left-attach:2; right-attach:3; top-attach:8">
+<p style="Normal" xid="178" props="text-align:center">19</p>
+</cell>
+<cell xid="180" props="bot-attach:9; left-attach:3; right-attach:4; top-attach:8">
+<p style="Normal" xid="181" props="text-align:center">732</p>
+</cell>
+<cell xid="183" props="bot-attach:9; left-attach:4; right-attach:5; top-attach:8">
+<p style="Normal" xid="184" props="text-align:center">509</p>
+</cell>
+<cell xid="186" props="bot-attach:9; left-attach:5; right-attach:6; top-attach:8">
+<p style="Normal" xid="187" props="text-align:center">76</p>
+</cell>
+<cell xid="189" props="bot-attach:9; left-attach:6; right-attach:7; top-attach:8">
+<p style="Normal" xid="190" props="text-align:center">1374</p>
+</cell>
+</table>
+<p style="Normal" xid="1"><c></c></p>
+</section>
+</abiword>

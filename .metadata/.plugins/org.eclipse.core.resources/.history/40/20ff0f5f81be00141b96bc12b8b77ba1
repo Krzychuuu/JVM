@@ -1,0 +1,16 @@
+package Reflections;
+
+public class ReflectionsTime {
+
+	public class Book
+	{
+		public String Author;
+		public int YearOfPublishing;
+	}
+	
+	public static void main(String[]args)
+	{
+		
+	}
+}
+
