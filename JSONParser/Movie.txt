@@ -1,0 +1,16 @@
+{
+	"Movie": {
+		"title": "Lord of the Rings",
+		"author": "Tolkien",
+		"first_aired": "2002",
+		"avaible": "true",
+		"parts":
+			"1"
+			"2"
+			"3",
+		"part_names":
+			"Fellowship of the Ring"
+			"Two Towers"
+			"Return of the King"
+	}
+}
