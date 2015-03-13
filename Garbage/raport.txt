@@ -1,0 +1,27 @@
+100 instancji, 1Mb
+
+-Xms256m -Xmx256m -XX:+UseSerialGC
+Alokacja 1 w¹tku o sta³ym rozmiarze: 27540924ns
+Alokacja 4 w¹tków o sta³ym rozmiarze: 47009781ns
+Alokacja 1 w¹tku o zmiennym rozmiarze: 275875889ns
+Alokacja 4 w¹tków o zmiennym rozmiarze: 315545017ns
+
+-Xms256m -Xmx256m -XX:+UseParallelOldGC
+Alokacja 1 w¹tku o sta³ym rozmiarze: 46007188ns
+Alokacja 4 w¹tków o sta³ym rozmiarze: 36286662ns
+Alokacja 1 w¹tku o zmiennym rozmiarze: 254095166ns
+Alokacja 4 w¹tków o zmiennym rozmiarze: 392722822ns
+
+-Xms256m -Xmx256m -XX:+UseConcMarkSweepGC
+Alokacja 1 w¹tku o sta³ym rozmiarze: 22598537
+Alokacja 4 w¹tków o sta³ym rozmiarze: 48617607ns
+Alokacja 1 w¹tku o zmiennym rozmiarze: 254958748ns
+Alokacja 4 w¹tków o zmiennym rozmiarze: 428043674ns
+
+-Xms256m -Xmx256m -XX:+UseG1GC
+Alokacja 1 w¹tku o sta³ym rozmiarze: 25561402ns
+Alokacja 4 w¹tków o sta³ym rozmiarze: 52629261ns
+Alokacja 1 w¹tku o zmiennym rozmiarze: 315545017ns
+Alokacja 4 w¹tków o zmiennym rozmiarze: 317459951ns
+
+
