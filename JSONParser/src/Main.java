@@ -13,21 +13,21 @@ public class Main {
 		writer.println(toJSON.toJson(tempMovie));
 		writer.close();
 		
-		BufferedReader br = new BufferedReader(new FileReader(tempMovie.getClass().getName()+".txt"));
-	    try {
-	        StringBuilder sb = new StringBuilder();
-	        String line = br.readLine();
-
-	        while (line != null) {
-	            sb.append(line);
-	            sb.append(System.lineSeparator());
-	            line = br.readLine();
-	        }
-	        String everything = sb.toString();
-	        fromJSON.fromJson(everything);
-	    } finally {
-	        br.close();
-	    }
+//		BufferedReader br = new BufferedReader(new FileReader(tempMovie.getClass().getName()+".txt"));
+//	    try {
+//	        StringBuilder sb = new StringBuilder();
+//	        String line = br.readLine();
+//
+//	        while (line != null) {
+//	            sb.append(line);
+//	            sb.append(System.lineSeparator());
+//	            line = br.readLine();
+//	        }
+//	        String everything = sb.toString();
+//	        fromJSON.fromJson(everything);
+//	    } finally {
+//	        br.close();
+//	    }
 	}
 
 }
