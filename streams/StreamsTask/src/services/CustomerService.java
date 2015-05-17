@@ -75,7 +75,7 @@ public class CustomerService implements CustomerServiceInterface {
 	public int countBuys(Product p) {
 		List<Product> products = new ArrayList<Product>();
 		for (Customer customer : customers) {
-			products.addAll(customer.getBoughtProducts().stream().filter(pr -> pr.getId() == p.getId()).collect(Collectors.toList()));
+			products.addAll(customer.getBoughtProducts().stream().filter(pr->pr.getId()==p.getId()).collect(Collectors.toList()));
 		}
 		return products.size();
 	}
